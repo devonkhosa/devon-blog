@@ -10,4 +10,4 @@ Well, when I decided to create a new post, hexo threw this error:
 Once I removed my comment and left it looking like this:
 ![](how-hard/vscode-screenshot.png "VS code")
 
-Problem solved!
+Problem solved! 
